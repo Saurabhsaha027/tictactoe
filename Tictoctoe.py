@@ -31,7 +31,7 @@ def winner(p,t):
 
 if __name__ == '__main__':
     again=1
-    print('\n\n\n!!-------------: PlAY  ("_") TIC TAC TOE ("_")  WITH COMPUTER / Friend :-----------!!')
+    print('\n\n\n!!-------------: PlAY  ("_") TIC TAC TOE ("_")  WITH COMPUTER or Friend :-----------!!')
     print("---------------------------------------------------------------------------------")
     print("---------: MODE :---------\n 1   -    COMPUTER :\n 2   -    FRIEND: ")
     ck = input("Enter Choice : ")
